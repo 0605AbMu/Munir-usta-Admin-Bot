@@ -1,0 +1,65 @@
+[
+ {
+  "__id": -1001580725966,
+  "type": "supergroup",
+  "first_name": "NodeJS Course",
+  "username": "yo'q",
+  "compulsory": true
+ },
+ {
+  "__id": -722532992,
+  "type": "group",
+  "first_name": "Проверка",
+  "username": "yo'q",
+  "compulsory": true
+ },
+ {
+  "__id": -1001766210905,
+  "type": "supergroup",
+  "first_name": "Шахрихон Усталари",
+  "username": "Pro_Ustalar5",
+  "compulsory": true
+ },
+ {
+  "__id": -1001761785800,
+  "type": "supergroup",
+  "first_name": "Про_Усталар Андижон",
+  "username": "Pro_Ustalar1",
+  "compulsory": false
+ },
+ {
+  "__id": -1001595267222,
+  "type": "supergroup",
+  "first_name": "Про_Усталар Тошкент Вилояти",
+  "username": "Pro_Ustalar_Toshkent",
+  "compulsory": false
+ },
+ {
+  "__id": -1001761680099,
+  "type": "supergroup",
+  "first_name": "Про_Усталар Фаргона",
+  "username": "Pro_Ustalar_Fargona",
+  "compulsory": false
+ },
+ {
+  "__id": -1001712302458,
+  "type": "supergroup",
+  "first_name": "Про_Усталар Наманган Вилояти",
+  "username": "Pro_Ustalar_Namangan",
+  "compulsory": false
+ },
+ {
+  "__id": -1001540701142,
+  "type": "supergroup",
+  "first_name": "Асака Усталари",
+  "username": "Pro_Ustalar_Asaka",
+  "compulsory": false
+ },
+ {
+  "__id": -1001509971761,
+  "type": "supergroup",
+  "first_name": "Хонобод Усталари",
+  "username": "ProUsta2",
+  "compulsory": false
+ }
+]
